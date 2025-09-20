@@ -14,3 +14,11 @@ def test_sum():
 
 test_sum()
 ```
+
+What done:
+ - basic testing
+ - basic reports
+Plans:
+ - Add fixtures
+ - Add CI/CD integration
+ - Make report more informative
