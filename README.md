@@ -1,7 +1,7 @@
 # TestingPy
-Small framework for testing
+Small framework for testing Python functions<br>
 Example:
-```
+```python
 import testingpy as tpy
 
 test = tpy.TestingPy()
