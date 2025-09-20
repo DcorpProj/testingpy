@@ -18,6 +18,7 @@ test_sum()
 What done:
  - basic testing
  - basic reports
+<br><br>
 Plans:
  - Add fixtures
  - Add CI/CD integration
